@@ -1,1 +1,22 @@
 @import "tailwindcss";
+
+
+@theme {
+        --font-Poppins: "Poppins", sans-seriff;
+        --font-Raleway: "Raleway", sans-seriff;
+        --color-bookmark-purple: #242a45;
+        --color-bookmark-red: #fa5959;
+        --color-bookmark-blue: #5267df;
+        --color-bookmark-grey: #9194a2;
+        --color-bookmark-white: #f7f7f7;
+        }
+
+      @utility container{
+         center:true;
+         padding:1rem;
+         screens:{
+          lg:"1124px",
+          xl:"1124px",
+          2xl:"1124px"
+         }
+      }

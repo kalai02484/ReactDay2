@@ -1,7 +1,7 @@
 import React from 'react'
-import Header from './assets/components/header'
-import Home from './assets/components/Home'
-import Footer from './assets/components/Footer'
+import Header from './components/LandingPageInReact/Header'
+import Home from './components/LandingPageInReact/Home'
+import Footer from './components/LandingPageInReact/Footer'
 
 const App = () => {
   return (
