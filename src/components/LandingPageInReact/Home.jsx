@@ -1,11 +1,11 @@
 import React from "react";
-import Herobg from "../assets/hero-bg.png";
-import Feature1 from "../assets/illustration-features-tab-1.png";
-import Feature2 from "../assets/illustration-features-tab-2.png";
-import Feature3 from "../assets/illustration-features-tab-3.png";
-import ChromeLogo from "../assets/logo-chrome.svg";
-import FirefoxLogo from "../assets/logo-firefox.svg";
-import OperaLogo from "../assets/logo-opera.svg";
+import Herobg from "../../assets/hero-bg.png";
+import Feature1 from "../../assets/illustration-features-tab-1.png";
+import Feature2 from "../../assets/illustration-features-tab-2.png";
+import Feature3 from "../../assets/illustration-features-tab-3.png";
+import ChromeLogo from "../../assets/logo-chrome.svg";
+import FirefoxLogo from "../../assets/logo-firefox.svg";
+import OperaLogo from "../../assets/logo-opera.svg";
 
 const Home = () => {
   return (
